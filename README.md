@@ -1,1 +1,0 @@
-# Intranet-Based-Student-Profile-Management-System
